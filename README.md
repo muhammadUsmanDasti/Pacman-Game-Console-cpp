@@ -1,4 +1,4 @@
-# 🟡 Pacman Game in C++ (Console-based)
+#  Pacman Game in C++ (Console-based)
 
 Welcome to my console-based **Pacman game**, developed in **C++** as part of a first-semester learning project. This version includes four types of ghosts, a scoring system, power-up mechanics, and full maze rendering using `windows.h`.
 
