@@ -15,15 +15,15 @@ A colorful, console-based Pacman game in C++ featuring smart ghosts, power pills
   - **Colored Console Output** using `SetConsoleTextAttribute`
   - **Game Over & Victory Screens**
   - Basic game loop with collision detection and ghost behavior
-  - Controls
-  Arrow Keys: Move Pacman
-  ESC: Exit the game
-**Future Improvements**
-Add sound effects (using PlaySound() or SFML)
-High score system using file I/O
-Ghost difficulty levels
-GUI version using SFML or SDL
-**Connect with me**
+###Controls
+  -**Arrow Keys**: Move Pacman
+  -**ESC**: Exit the game
+###Future Improvements
+-Add sound effects (using PlaySound() or SFML)
+-High score system using file I/O
+-Ghost difficulty levels
+-GUI version using SFML or SDL
+###Contacts:
 -[Linkedin](https://www.linkedin.com/in/muhammad-usman-dasti-72058b322/)
--Email: muhammadusmandast07@gmail.com
+-[Email] (muhammadusmandast07@gmail.com)
 
